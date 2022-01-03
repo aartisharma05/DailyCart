@@ -7,12 +7,12 @@ CheckOut The Website at: https://daily-cart-india.herokuapp.com/
 It is not Completely Responsive so for best experience check it out in Laptop/PC or some larger screens.
 
 PACKAGES REQUIRED FOR BACKEND:
-Cookie-parser
-Dot ENV
-Json Web Tokne
-Mongoose
-Nodemon
+   1.Cookie-parser
+   2.Dot ENV
+   3.Json Web Tokne
+   4.Mongoose
+   5.Nodemon
 PACKAGES REQUIRED FOR FRONTEND:
-Material-ui Icons and Core
-Axios
-React Router DOM
+   1.Material-ui Icons and Core
+   2.Axios
+   3.React Router DOM
